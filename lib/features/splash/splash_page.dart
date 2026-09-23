@@ -5,13 +5,14 @@ class SplashPage extends StatelessWidget {
   const SplashPage({super.key});
 
   @override
+
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
         alignment: Alignment.center,
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors:AppColors.splashGradient,
+            colors:AppColors.blueMainGradient,
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
           ),
