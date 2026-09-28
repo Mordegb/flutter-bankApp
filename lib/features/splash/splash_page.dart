@@ -12,7 +12,7 @@ class SplashPage extends StatelessWidget {
         alignment: Alignment.center,
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors:AppColors.blueMainGradient,
+            colors:  [Color(0xFF2196F3), Color(0xFF03DAC6)],
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
           ),
