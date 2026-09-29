@@ -1,7 +1,6 @@
 import 'package:app1/common/constats/AppColors.dart';
 import 'package:app1/features/onBoard/widgets/dollar_sign.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class OnboardPage extends StatelessWidget {
   const OnboardPage({super.key});
@@ -36,7 +35,9 @@ class OnboardPage extends StatelessWidget {
                         shadowColor: Colors.transparent,
                         foregroundColor: Colors.white,
                       ),
-                      child: const Text('Entrar'),
+                      child: const Text('Entrar' , style: TextStyle(
+                        fontSize: 20
+                      ),),
                     ),
                   ),
                 ),
