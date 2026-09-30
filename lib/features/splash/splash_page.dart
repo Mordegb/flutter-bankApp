@@ -1,4 +1,4 @@
-import 'package:app1/common/constats/AppColors.dart';
+import 'package:app1/common/constats/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatelessWidget {

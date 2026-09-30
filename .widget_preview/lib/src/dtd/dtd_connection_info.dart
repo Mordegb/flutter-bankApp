@@ -1,9 +1,9 @@
 // ignore_for_file: implementation_imports
 
-const String kWidgetPreviewDtdUri = 'ws://127.0.0.1:46077/POecCfxDsTA=';
+const String kWidgetPreviewDtdUri = 'ws://127.0.0.1:36115/JFsSq7b--zE=';
 const String kWidgetPreviewService =
-    'widget-preview-ebe23382-c5d4-4158-ac10-67f405bb18d4';
+    'widget-preview-b41bfdf2-d675-42e6-ae8d-99e781a4d195';
 const String kWidgetPreviewScaffoldStream =
-    'WidgetPreviewScaffold-ebe23382-c5d4-4158-ac10-67f405bb18d4';
+    'WidgetPreviewScaffold-b41bfdf2-d675-42e6-ae8d-99e781a4d195';
 const String kProjectRootPath =
     r'/home/cadu/programas/mobasTST/D.bankFlutter/flutter-bankApp';

@@ -1,8 +1,7 @@
-import 'package:app1/features/onBoard/onBoard_page.dart';
-import 'package:app1/features/splash/splash_page.dart';
+import 'package:app1/features/onBoard/on_board_page.dart';
+// import 'package:app1/features/splash/splash_page.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'features/splash/splash_page.dart';
+// import 'features/splash/splash_page.dart';flu
 
 class App extends StatelessWidget {
   const App({super.key});
