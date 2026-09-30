@@ -1,5 +1,4 @@
-import 'package:app1/common/constats/AppColors.dart';
-import 'package:app1/features/onBoard/widgets/dollar_sign_controller.dart';
+import 'package:app1/features/onBoard/widgets/dollarSign/dollar_sign_controller.dart';
 import 'package:flutter/material.dart';
 
 class DollarSign extends StatefulWidget {
