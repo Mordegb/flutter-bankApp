@@ -1,3 +1,4 @@
+import 'package:app1/common/app_routes.dart';
 import 'package:app1/common/constats/app_colors.dart';
 import 'package:flutter/material.dart';
 
@@ -22,7 +23,7 @@ class SignInButton extends StatelessWidget {
           borderRadius: BorderRadius.circular(50),
         ),
         child: ElevatedButton(
-          onPressed: () {},
+          onPressed: () => Navigator.pushReplacementNamed(context, AppRoutes.home),
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.transparent,
             shadowColor: Colors.transparent,

@@ -1,3 +1,5 @@
 {
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "java.jdt.ls.java.home": "/opt/android-studio/jbr",
+    "java.import.gradle.java.home": "/opt/android-studio/jbr"
 }
