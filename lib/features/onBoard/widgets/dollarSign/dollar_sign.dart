@@ -1,4 +1,4 @@
-import 'package:app1/features/onBoard/widgets/dollarSign/dollar_sign_controller.dart';
+import 'package:D.bank/features/onBoard/widgets/dollarSign/dollar_sign_controller.dart';
 import 'package:flutter/material.dart';
 
 class DollarSign extends StatefulWidget {

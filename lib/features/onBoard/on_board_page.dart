@@ -1,5 +1,5 @@
-import 'package:app1/features/onBoard/widgets/dollarSign/dollar_sign.dart';
-import 'package:app1/features/onBoard/widgets/signInButton/sign_in_button.dart';
+import 'package:D.bank/features/onBoard/widgets/dollarSign/dollar_sign.dart';
+import 'package:D.bank/features/onBoard/widgets/signInButton/sign_in_button.dart';
 import 'package:flutter/material.dart';
 
 class OnboardPage extends StatelessWidget {
